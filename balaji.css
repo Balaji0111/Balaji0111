@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.nav{
+    width: 160%;
+    height: 10%;
+    padding: 15px;
+    border: 1px solid white;
+    background-color: #fff;
+}
+.nav a{
+    border: 1px solid white;
+    background-color: #fff;
+    position: relative;
+    left: 6%;
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+img{
+    position: absolute;
+    top: 0;
+}
+
+.btn1{
+    position: absolute;
+    top: 108%;
+    width: 24%;
+    height: 35%;
+    left:6.6%;
+    background-color:#191970;
+    color: #fff;
+    border: none; 
+    
+}
+.btn2{
+    position: absolute;
+    width: 22.9%;
+    height: 35%;
+    top: 108%;
+    left:31%;
+    border: none;
+    background-color:#191970;
+    color: #fff;
+}
+input [type="submit"]{
+    size: 30px;
+}
+/* .nav ul li{
+   display:inline-block;
+   margin-left:40px;
+} */
+form{
+    position: absolute;
+    top: 119%;
+    left: 5%;
+    height: 60vh;
+}
+/* .nav {
+    display: flex;
+    padding: 15px;
+    cursor: pointer;
+} */
+.intro{
+    position: absolute;
+    top:0;
+}
+.intro img{
+    position: absolute;
+    top: 15%;
+    left:2%;
+}
+nav ul li a{
+    text-align: center;
+}
+
+input[type="text"]{
+    font-size: 20px;
+}
+input[type="date"]{
+    font-size: 20px;
+    position: absolute;
+    top: 28%;
+    left: 54%;
+    width: 220px;
+    opacity: 0.9;
+}
+select{
+    font-size: 20px;
+    width: 220px;
+    top: 52%;
+    left: 24%;
+    width: 220px;
+    opacity: 0.9;
+}
+
+#aa{
+    font-size:20px;
+    width: 220px;
+    position: absolute;
+    top: 44.6%;
+    left: 54%;
+}
+h2{
+    position: absolute;
+    font-size: 40px;
+    color: #fff;
+    top: 79%;
+    left: 60%;
+    border:1px solid #191970 ;background-color:#191970;padding: 5px;color:#fff
+}
+form{
+    border: 1px solid white;
+    background-color: #fff;
+    width: 580px;
+}
+.text{
+    margin: 20px;
+    padding: 20px;
+}
+h1{
+    text-align: center ;
+}
+.ab{
+    font-size: 20px;
+    padding: 5px;
+    width: 24%;
+    background-color: rgb(255, 81, 0);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+.bee{
+    position: absolute;
+    top: 606%;
+    border: 1px solid white;
+    background-color: #fff;
+    width: 580px;
+
+    left: 6.69%;
+    padding: 10px;
+} 
